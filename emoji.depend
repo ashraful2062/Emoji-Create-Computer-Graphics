@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618792584 source:d:\c file\emoji\main.cpp
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+	<stdio.h>
+
